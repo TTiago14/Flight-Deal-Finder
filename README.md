@@ -1,0 +1,1 @@
+Flight Deal Finder is a simple and powerful tool that helps users discover the best flight deals across various destinations. It scrapes or connects to APIs from popular flight search engines and filters deals based on user preferences like budget, destination, and travel dates.
